@@ -15,4 +15,4 @@ spring:
   security:
     user:
       name: root
-      password:
+      password: 1234
